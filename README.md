@@ -68,6 +68,7 @@ medios para crear una nueva representación.”</em> (Manovich 2013)</p>
 <p>Google Inc. (n.d.). <strong><em>Logo Google Street View.</em></strong> Wikimedia Commons.</p>
 <p><a href="https://commons.wikimedia.org/wiki/File:Google_Street_View_icon.svg">https://commons.wikimedia.org/wiki/File:Google_Street_View_icon.svg</a></p>
 <p>Manovich, L. (2013). <strong><em>El software toma el mando</em></strong>. Barcelona: Editorial UOC.</p>
+Mapa de espacios mapeados por Google en el 2015 (Consultado el 25 de mayo 2024)File:Google Street View Eugen Simion 14 request 2015-07-01.png - Wikimedia Commons
 <p>McMillan, R. (2012). <strong><em>Lord of the Files: How GitHub Tamed Free Software (And</em></strong> More).</p>
 <p>Muñoz-Justicia, J. (2014). <strong><em>Conocimiento Abierto y Tecnología.</em></strong></p>
 <p>Quetzaltepec. (n.d.). <strong><em>Logo Waze Azul.</em></strong> Wikimedia Commons.</p>
