@@ -3,9 +3,9 @@
 
 
 ---
-<h2 id="la-hibridación-de-medios-y-su-impacto-en-mundo-en-transformación-continua."><strong>La hibridación de medios y su impacto en mundo en transformación continua.</strong></h2> por Caryana Castillo de los Santos
+<h1 id="la-hibridación-de-medios-y-su-impacto-en-mundo-en-transformación-continua."><strong>La hibridación de medios y su impacto en mundo en transformación continua.</strong></h2> por Caryana Castillo de los Santos
 <h2 id="introducción">INTRODUCCIÓN</h2>
-<h1 id="navegando-en-la-certeza-de-un-mundo-descrito-al-milímetro">Navegando en la certeza de un mundo descrito al milímetro</h1> 
+<h2 id="navegando-en-la-certeza-de-un-mundo-descrito-al-milímetro">Navegando en la certeza de un mundo descrito al milímetro</h1> 
 <p>¿Cómo se viajaba antes? Esta es una pregunta que me han hecho mis hijos con frecuencia, niños <em>“nacidos digitales”</em>.  Pero esta es una pregunta incompleta, ¿Antes de qué?</p>
 <p>Pensando en los planteamientos del <em>“Software toma el mando”</em> de Manovich (2013), podría apresurarme a decir que mis hijos se refieren a cómo se organizaba y se hacía un viaje antes de la <em>“Revolución de Terciopelo”.</em> Manovich enmarca este periodo entre “1993 y 1999 como un tiempo en el que, de manera progresiva y apenas perceptible, ocurrieron transformaciones y se desarrolló la estética de las imágenes y gráficos en movimiento". Sumado a este proceso, en 1996, el <strong>GPS</strong> (Sistema de Posicionamiento Global), creado en 1960 inicialmente usado exclusivamente para asuntos militares, fue declarado de uso dual, militar y civil, por el presidente Bill Clinton, dada su importancia.</p>
 <p>Sin embargo, esta respuesta no sería del todo clara ni cierta, ya que solo plantea la antesala de los avances estéticos, tecnológicos, económicos y sociológicos necesarios para el cambio de paradigma.</p>
