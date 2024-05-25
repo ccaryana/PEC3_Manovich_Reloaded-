@@ -60,27 +60,22 @@ medios para crear una nueva representación.”</em> (Manovich 2013)</p>
 <p>En conclusión, el futuro es hoy ya que “<em>La mejor forma de predecir el futuro es inventándolo.”</em> Alan Kay (Manovich, 2013).</p>
 <p><img src="https://i.postimg.cc/WzvDPDTm/Captura-de-pantalla-25-5-2024-155723-www-google-com.png" alt="enter image description here"></p>
 <h2 id="bibliografía">BIBLIOGRAFÍA</h2>
-<p>&lt;![endif]–&gt;</p>
-<p><strong>BIBLIOGRAFÍA</strong></p>
 <p>Adell Español, F. (2024). <strong><em>Fundamentos y Evolución de la Multimedia</em></strong>. El encargo y la creación de este recurso de aprendizaje UOC han sido coordinados por la profesora: Laura Porta Simó. PID_00297588. Primera edición: febrero 2024.</p>
-<p>Google Inc. (n.d.). <strong><em>Logo Google Maps.</em></strong> Wikimedia Commons.</p>
-<p><a href="https://commons.wikimedia.org/wiki/File:Google_Maps_icon_(2015-2020).svg">https://commons.wikimedia.org/wiki/File:Google_Maps_icon_(2015-2020).svg</a></p>
-<p>Google Inc. (n.d.). <strong><em>Logo Google Street View.</em></strong> Wikimedia Commons.</p>
-<p><a href="https://commons.wikimedia.org/wiki/File:Google_Street_View_icon.svg">https://commons.wikimedia.org/wiki/File:Google_Street_View_icon.svg</a></p>
+<p>Castillo Caryana  (2024) <strong><em>Captura de Pantalla Segaria desde Google Street View</em></strong>.</p>
 <p>Manovich, L. (2013). <strong><em>El software toma el mando</em></strong>. Barcelona: Editorial UOC.</p>
+<p><strong><em>Mapa del mundo de lugares mapeados por Google en el 2015</em></strong> (Consultado el 25 de mayo 2024)<br>
+<a href="https://commons.wikimedia.org/wiki/File:Google_Street_View_Eugen_Simion_14_request_2015-07-01.png">File:Google Street View Eugen Simion 14 request 2015-07-01.png - Wikimedia Commons</a></p>
 <p>McMillan, R. (2012). <strong><em>Lord of the Files: How GitHub Tamed Free Software (And</em></strong> More).</p>
 <p>Muñoz-Justicia, J. (2014). <strong><em>Conocimiento Abierto y Tecnología.</em></strong></p>
-<p>Quetzaltepec. (n.d.). <strong><em>Logo Waze Azul.</em></strong> Wikimedia Commons.</p>
-<p><a href="https://commons.wikimedia.org/wiki/File:Waze%E2%80%99s_logo.jpg">https://commons.wikimedia.org/wiki/File:Waze%E2%80%99s_logo.jpg</a></p>
-<p>Waze Mobile. (n.d.). <strong><em>Logo Waze.</em></strong> Wikimedia Commons.</p>
-<p><a href="https://commons.wikimedia.org/wiki/File:Waze_logo.jpg">https://commons.wikimedia.org/wiki/File:Waze_logo.jpg</a></p>
 <p><strong><em>Google Maps Statistics, Users, Facts &amp; Usage Stats [2024].</em></strong> Cozy Berries. (Consultado el 24 de mayo de 2024). <a href="https://www.cozyberries.com/google-maps-statistics/">https://www.cozyberries.com/google-maps-statistics/</a></p>
-<p><strong><em>Sobre GPS.</em></strong> (n.d.). Wikipedia. (Consultado el 21 de mayo del 2024).</p>
-<p><a href="https://es.wikipedia.org/wiki/GPS">https://es.wikipedia.org/wiki/GPS</a></p>
-<p><strong><em>Sobre Google Maps.</em></strong> (n.d.). Wikipedia. (Consultado el 21 de mayo del 2024).</p>
-<p><a href="https://es.wikipedia.org/wiki/Google_Maps">https://es.wikipedia.org/wiki/Google_Maps</a></p>
-<p><strong><em>Sobre Google Street View.</em></strong> (n.d.). Wikipedia. (Consultado el 21 de mayo del 2024).</p>
-<p><a href="https://es.wikipedia.org/wiki/Google_Street_View">https://es.wikipedia.org/wiki/Google_Street_View</a></p>
-<p><strong><em>Sobre Waze</em></strong>. (n.d.). Wikipedia. (Consultado el 21 de mayo del 2024).</p>
-<p><a href="https://es.wikipedia.org/wiki/Waze">https://es.wikipedia.org/wiki/Waze</a></p>
-
+<p><strong><em>Sobre GPS.</em></strong> (n.d.). Wikipedia. (Consultado el 21 de mayo del 2024).<br>
+<a href="https://es.wikipedia.org/wiki/GPS">https://es.wikipedia.org/wiki/GPS</a></p>
+<p><strong><em>Sobre Google Maps.</em></strong> . Wikipedia. (Consultado el 21 de mayo del 2024).<br>
+<a href="https://es.wikipedia.org/wiki/Google_Maps">https://es.wikipedia.org/wiki/Google_Maps</a></p>
+<p><strong><em>Sobre Google Street View.</em></strong> . Wikipedia. (Consultado el 21 de mayo del 2024).<br>
+<a href="https://es.wikipedia.org/wiki/Google_Street_View">https://es.wikipedia.org/wiki/Google_Street_View</a></p>
+<p><strong><em>Sobre Waze</em></strong>.  Wikipedia. (Consultado el 21 de mayo del 2024).<br>
+<a href="https://es.wikipedia.org/wiki/Waze">https://es.wikipedia.org/wiki/Waze</a></p>
+<p><strong><em>Utilización de Waze vía Apple</em></strong> (Consultado el 25 de mayo del 2024) <a href="https://upload.wikimedia.org/wikipedia/commons/0/0c/Utilisation_de_Waze_via_Apple_CarPlay.png?20220308140732">https://upload.wikimedia.org/wikipedia/commons/0/0c/Utilisation_de_Waze_via_Apple_CarPlay.png?20220308140732</a></p>
+<p>Waze Mobile.  <strong><em>Logo Waze.</em></strong> Wikimedia Commons.<br>
+<a href="https://commons.wikimedia.org/wiki/File:Waze_logo.jpg">https://commons.wikimedia.org/wiki/File:Waze_logo.jpg</a></p>
