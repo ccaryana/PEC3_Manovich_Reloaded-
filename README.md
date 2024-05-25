@@ -3,9 +3,9 @@
 
 
 ---
-
-<h1 id="navegando-en-la-certeza-de-un-mundo-descrito-al-milímetro">Navegando en la certeza de un mundo descrito al milímetro</h1> por Caryana Castillo de los Santos
+<h2 id="la-hibridación-de-medios-y-su-impacto-en-mundo-en-transformación-continua."><strong>La hibridación de medios y su impacto en mundo en transformación continua.</strong></h2> por Caryana Castillo de los Santos
 <h2 id="introducción">INTRODUCCIÓN</h2>
+<h1 id="navegando-en-la-certeza-de-un-mundo-descrito-al-milímetro">Navegando en la certeza de un mundo descrito al milímetro</h1> 
 <p>¿Cómo se viajaba antes? Esta es una pregunta que me han hecho mis hijos con frecuencia, niños <em>“nacidos digitales”</em>.  Pero esta es una pregunta incompleta, ¿Antes de qué?</p>
 <p>Pensando en los planteamientos del <em>“Software toma el mando”</em> de Manovich (2013), podría apresurarme a decir que mis hijos se refieren a cómo se organizaba y se hacía un viaje antes de la <em>“Revolución de Terciopelo”.</em> Manovich enmarca este periodo entre “1993 y 1999 como un tiempo en el que, de manera progresiva y apenas perceptible, ocurrieron transformaciones y se desarrolló la estética de las imágenes y gráficos en movimiento". Sumado a este proceso, en 1996, el <strong>GPS</strong> (Sistema de Posicionamiento Global), creado en 1960 inicialmente usado exclusivamente para asuntos militares, fue declarado de uso dual, militar y civil, por el presidente Bill Clinton, dada su importancia.</p>
 <p>Sin embargo, esta respuesta no sería del todo clara ni cierta, ya que solo plantea la antesala de los avances estéticos, tecnológicos, económicos y sociológicos necesarios para el cambio de paradigma.</p>
@@ -29,7 +29,7 @@
 <p><em>Las tecnologías “de medios modernos añaden un nuevo mecanismo de transmisión cultural: las interfaces y manuales de los dispositivos de medios llevan consigo las instrucciones adecuadas para hacer uso de los mismos.”</em> (Manovich 2013).</p>
 <p><strong>Waze</strong>, es una aplicación con una plataforma muy intuitiva, con un estilo gráfico muy fresco y amigable, con un alto sentido de <em>“economía conductual”</em> en su diseño de interfaz, que resulta comprensible y fácil de usar desde el primer momento. Además, soporta múltiples lenguajes y se integra con redes sociales y servicios de música como por ejemplo Spotify. También, permite a los negocios poner íconos publicitarios a través de <strong>Waze Advertise</strong>, contribuyendo al <strong>fortalecimiento del negocio local.</strong></p>
 <h2 id="conclusión">CONCLUSIÓN</h2>
-<h2 id="la-hibridación-de-medios-y-su-impacto-en-mundo-en-transformación-continua."><strong>La hibridación de medios y su impacto en mundo en transformación continua.</strong></h2>
+
 <p>Lev Manovich, en su obra <em>“El Software toma el mando”</em> 2013, explica que <em>“Un ordenador</em> <em>insufla nueva vida» a los medios físicos y electrónicos que simula. Los medios pueden volverse «dinámicos» e «inteligentes» … Además, pueden pasar a ser compartibles colectivamente y «editables colectivamente”.</em> Esta observación resalta cómo la evolución de los medios ha transformado la interacción y la colaboración.</p>
 <p>Hoy en día, la facilidad con la que podemos planificar un viaje ilustra esta transformación. Herramientas como <strong>Google Maps</strong> y su prestación <strong>Google Street View</strong> y <strong>Waze</strong> nos permiten comparar destinos, contratar actividades, encontrar restaurantes, descubrir rutas y previsualizar calles y establecimientos. Estas herramientas nos guían paso a paso y hasta llegar a nuestro destino y abrir la puerta de nuestra habitación de hotel con el móvil.</p>
 <p>Manovich también señala que <em>“el resultado de la hibridación no es tan solo la suma mecánica de las partes existentes previamente, sino una nueva «especie»: un nuevo tipo de estética visual”.</em> Resaltando cómo la evolución de los medios mejora las tecnologías existentes, a la vez que crea nuevas formas de experiencia y percepción.</p>
